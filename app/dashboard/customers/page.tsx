@@ -5,5 +5,5 @@ export const metadata: Metadata = {
 }; 
 
 export default function Page() {
-    return <p>customers Page</p>;
+    return <p>Employee Page</p>;
   }
